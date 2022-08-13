@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![](../images/webpage.jpg)
+![](../images/IMG_8507.JPG)
 
 I am currently an assistant professor in School of Information at Renmin University of China. I got my Ph.D. degree in Management Science and Engineering ( Information Systems) from Guanghua School of Management, Peking University in 2020, under the supervision of Prof. Fei Ren. My research interests are mainly on business intelligence and healthcare IT.
 
