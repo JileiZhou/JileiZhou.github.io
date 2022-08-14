@@ -1,0 +1,13 @@
+---
+title: " Inferring multi-stage risk for online consumer credit services: An integrated scheme using data augmentation and model enhancement"
+collection: publications
+permalink: /publication/DSS2021
+excerpt: ''
+date: 2021-10-01
+venue: 'Decision Support Systems'
+paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0167923621001214'
+citation: 'Zhou, Jilei, Cong Wang, Fei Ren, and Guoqing Chen. "Inferring multi-stage risk for online consumer credit services: An integrated scheme using data augmentation and model enhancement." Decision Support Systems 149 (2021): 113611.'
+---
+
+**Abstract**：In recent years, online consumer credit services have emerged in e-commerce. Although such services boost sales, the best way to allocate credit to consumers is a critical issue to be explored. In this paper, a comprehensive scheme is proposed using data augmentation and model enhancement to infer online consumer credit risk. The proposed scheme augments consumer profiles by incorporating phone usage information to alleviate the “thin file” challenge and enhance the predictive model by taking a multi-staged view of consumers' repayment timing to achieve a more finely grained credit risk determination. A three-step analysis, including prediction evaluation, model interpretation using Shapley Additive Explanations (SHAP), and welfare analysis, was performed to evaluate our proposed scheme's efficacy. We found that phone usage information enhanced predictive performance and that underlying psychological mechanisms can be analyzed by corresponding feature interpretations to theories. The follow-up welfare analysis illustrates the business value of the proposed scheme.
+[Download paper here](https://www.sciencedirect.com/science/article/abs/pii/S0167923621001214)
