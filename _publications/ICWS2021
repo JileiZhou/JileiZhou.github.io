@@ -1,0 +1,13 @@
+---
+title: " Sequence and Distance Aware Transformer for Recommendation Systems"
+collection: publications
+permalink: /publication/ICWS2021
+excerpt: ''
+date: 2021-09-01
+venue: '2021 IEEE International Conference on Web Services (ICWS)'
+paperurl: ''
+citation: 'Zang, Runqiang, Meiyun Zuo, Jilei Zhou, Yining Xue, and Keman Huang. "Sequence and Distance Aware Transformer for Recommendation Systems." In 2021 IEEE International Conference on Web Services (ICWS), pp. 117-124. IEEE, 2021.'
+---
+
+**Abstract**：Transformer has achieved admirable success in sequential tasks. However, the model only considers the order of items in the sequence, not the relative distances, which weakens the relevance between items. To this end, we propose a novel Sequence and Distance Aware Transformer (SDAT) for recommendation systems. Specifically, we first apply the Transformer to handle the interaction between the items effectively. Then, Gated Recurrent Unit can be designed to aggregate information on an item-by-item basis in sequential information, meanwhile, we adopt the attention mechanism to focus on items with smaller time intervals to indicate high relevance. We also add a time gain function to augment the influence weight of recent items. Finally, the processing result of the time information of our integrated items replaces the positional encoding representation of the original Transformer. Extensive experiments on three real-world datasets show that SDAT outperforms state-of-the-art methods.
+[Download paper here](https://ieeexplore.ieee.org/abstract/document/9590427)
