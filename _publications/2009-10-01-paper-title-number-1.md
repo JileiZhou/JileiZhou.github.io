@@ -5,9 +5,10 @@ permalink: /publication/ECR2022
 excerpt: ''
 date: 2022-03-01
 venue: 'Electronic Commerce Research'
-paperurl: ''
-citation: Zhou, Jilei, Guanran Jiang, Wei Du, and Cong Han. "Profiling temporal learning interests with time-aware transformers and knowledge graph for online course recommendation." Electronic Commerce Research (2022): 1-21.
+paperurl: 'https://link.springer.com/article/10.1007/s10660-022-09541-z'
+citation: 'Zhou, Jilei, Guanran Jiang, Wei Du, and Cong Han. "Profiling temporal learning interests with time-aware transformers and knowledge graph for online course recommendation." Electronic Commerce Research (2022): 1-21.'
 ---
+
 Profiling users’ temporal learning interests is key to online course recommendation. Previous studies mainly profile users’ learning interests by aggregating their historical behaviors with simple fusing strategies, which fails to capture their temporal interest patterns underlying the sequential user behaviors. To fill the gap, we devise a recommender that incorporates time-aware Transformers and a knowledge graph to better capture users’ temporal learning interests. First, we introduce stacked Transformers to extract users’ temporal learning interests underlying users’ course enrollment sequences. In addition, we design a time-aware positional encoding module to consider the enrollment time intervals between courses. Third, we incorporate a knowledge graph to utilize the latent knowledge connections between courses. The proposed method outperforms state-of-the-art baselines for course recommendation. Furthermore, findings in the ablation study offers several insights for future research. The proposed model can be implemented in online learning platforms to increase user engagement and reduce dropout rate.
 
 [Download paper here](https://link.springer.com/article/10.1007/s10660-022-09541-z)
