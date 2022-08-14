@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+A full curriculum vita is available here.
+
 Education
 ======
 * B.S. in Engineering Management, School of Economics and Management, Beijing University of Posts and Telecommunications, 2015
@@ -16,7 +18,7 @@ Education
 
 Work experience
 ======
-* Fall 2020: PostDoc Fellow
+* Fall 2020: Postdoctoral fellow Fellow
   * Renmin University of China
 
 * Fall 2022: Assistant Professor
