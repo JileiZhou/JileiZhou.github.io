@@ -14,11 +14,11 @@ A full curriculum vita is available here.
 Education
 ======
 * B.S. in Engineering Management, School of Economics and Management, Beijing University of Posts and Telecommunications, 2015
-* Ph.D in  Management Science and Engineering (Information Systems), Guanghua School of Management, Peking University, 2020
+* Ph.D in  Information Systems, Guanghua School of Management, Peking University, 2020
 
 Work experience
 ======
-* Fall 2020: Postdoctoral fellow Fellow
+* Fall 2020: Postdoctoral Fellow
   * Renmin University of China
 
 * Fall 2022: Assistant Professor
