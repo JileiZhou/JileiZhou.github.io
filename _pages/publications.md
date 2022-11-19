@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## 2022
-- Shang, L., Xi, H., Hua, J., Tang, H, **Zhou,J.** [A Lexicon Enhanced Collaborative Network for Targeted Financial Sentiment Analysis]. Information Processing and Management.
+- Shang, L., Xi, H., Hua, J., Tang, H, **Zhou,J.** A Lexicon Enhanced Collaborative Network for Targeted Financial Sentiment Analysis. Information Processing and Management.
 - **Zhou, J.**, Jiang, G., Du, W.*, Han, C. [Profiling temporal learning interests with time-aware Transformers and knowledge graph for online course recommendation](https://link.springer.com/article/10.1007/s10660-022-09541-z). Electronic Commerce Research.
 - Huang, K., **Zhou, J.***, Chen S, Being a solo endeavor or team worker in crowdsourcing contests? It is a long-term decision you need to make. The 25th ACM Conference on Computer-Supported Cooperative Work and Social Computing. (ACM CSCW 2022; CCF A)
 - Han, Y.，**Zhou, J.***，Ren, F. A Dynamic Perspective on the Impact of Live Comments Content on Product Sales of Live Streaming Commerce (动态视角下实时评论内容对直播电商商品销量的影响). Journal of Management Science (管理科学).
